@@ -207,7 +207,6 @@
         </div>
     </div>
 
-    <!-- OpenCV.js library (CDN) -->
     <script async src="https://docs.opencv.org/4.x/opencv.js" type="text/javascript"></script>
     
     <!-- Application script -->
